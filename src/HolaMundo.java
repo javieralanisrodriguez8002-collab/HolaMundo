@@ -6,7 +6,7 @@ public class HolaMundo {
 
         JOptionPane.showMessageDialog(
                 null,
-                "Hola mundo",
+                "Hola mundo V2 Editado desde GITHUB",
                 "Mi primer programa",
                 JOptionPane.INFORMATION_MESSAGE
         );
